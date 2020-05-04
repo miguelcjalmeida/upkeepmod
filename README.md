@@ -14,4 +14,4 @@ https://www.nexusmods.com/wargroove/mods/30
 - save and have fun
 
 ## Credits
-Thanks Wargroove discord community, Fly Sniper and Pokachi/AgeOfWargroove for references!
+Thanks Wargroove discord community, Fly Sniper, Absynth, and Pokachi/AgeOfWargroove for references!
