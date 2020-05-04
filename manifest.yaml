@@ -1,0 +1,8 @@
+---
+
+id: UpkeepMod
+name: "Upkeep Mod"
+description: "add global upkeep cost to your units. Also add map actions to enable, disable, and add custom upkeeps"
+author: Scotilen
+
+...

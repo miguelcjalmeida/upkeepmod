@@ -1,0 +1,16 @@
+---
+
+en-GB:
+  # Triggers
+  trigger_action_name_pay_upkeep_action: "Upkeep: Charge player upkeep"                                                                        
+  trigger_action_description_pay_upkeep_action: "Charge a specified upkeep from a player"                                                         
+  trigger_action_readable_pay_upkeep_action: "{0} will pay fee of {3}% over the price of his/her {1} from {2}. Allow being in debt: {4}. Can charge commanders: {5}" 
+
+  trigger_action_name_enable_global_upkeep: "Upkeep: Enable global upkeep"                                                                        
+  trigger_action_description_enable_global_upkeep: "Enable the default global upkeep charges"                                                         
+  trigger_action_readable_enable_global_upkeep: "It will enable the default global upkeep that might be disabled" 
+
+  trigger_action_name_disable_global_upkeep: "Upkeep: Disable global upkeep"                                                                        
+  trigger_action_description_disable_global_upkeep: "Disable the default global upkeep charges"                                                         
+  trigger_action_readable_disable_global_upkeep: "It will disable the default global upkeep that might be enabled" 
+...

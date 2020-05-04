@@ -1,0 +1,14 @@
+---
+
+triggerActions:
+  - id: pay_upkeep_action
+    parameters:
+      - type: player_neutral_star
+      - type: unit_class_star
+      - type: location_star
+      - type: integer
+      - type: boolean
+      - type: boolean
+  - id: enable_global_upkeep
+  - id: disable_global_upkeep
+...
