@@ -12,3 +12,6 @@ https://www.nexusmods.com/wargroove/mods/30
 - select a skirmish map or edit a campaign/map 
 - click in mods and enable the Upkeep Mod
 - save and have fun
+
+## Credits
+Thanks Wargroove discord community and Pokachi/AgeOfWargroove for references 
